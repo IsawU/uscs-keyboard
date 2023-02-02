@@ -14,6 +14,8 @@ this project uses a single version number (a higher number is always a newer ver
 
 ## [Unreleased]
 
+## [1] - 2023-02-02
+
 ### Added
 
 - Added a Linux layout.
