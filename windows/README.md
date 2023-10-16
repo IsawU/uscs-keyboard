@@ -13,7 +13,6 @@ The `.klc` file is the *MSKLC* project.
 ## Missing features
 
 - ellipsis
-- apostrophe
 - × ÷
 
 ## Installation
